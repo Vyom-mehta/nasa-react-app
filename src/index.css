@@ -253,7 +253,7 @@ footer button i:hover{
   }
  
   /* my exp */
-  body{
+  .imageContainer{
     overflow-y: auto;
   }
 
