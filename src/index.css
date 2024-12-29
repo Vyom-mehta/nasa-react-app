@@ -36,6 +36,11 @@
 
 }
 
+html, body {
+  overflow: hidden;
+}
+
+
 
 .imageContainer{
   display: flex;
