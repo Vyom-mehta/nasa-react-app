@@ -24,6 +24,8 @@
 
    */
    box-sizing: border-box;
+
+   overflow: hidden;
 }
 
 
@@ -40,6 +42,7 @@
   flex-direction: column;
 
   /* Your .imageContainer will take up the full width of its parent container and will be limited in height to the viewport's height (100vh), ensuring it doesn't overflow vertically beyond the visible window. If its content is taller than the viewport, you might need additional styling to handle overflow (e.g., overflow: auto;). */
+  
    /* max-height:100vh ; */
    width: 100%; 
 }
@@ -260,5 +263,4 @@ footer button i:hover{
 }
 
 
-/* my exp */
 
