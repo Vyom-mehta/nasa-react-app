@@ -222,6 +222,11 @@ footer button i:hover{
 
 
 @media (min-width: 640px) {
+
+  body{
+    overflow: hidden;
+  }
+
   .sidebar{
     position: relative;
     /* The inset property is a shorthand for top, right, bottom, and left. By setting it to unset, it restores the initial value, effectively removing any inset offsets
