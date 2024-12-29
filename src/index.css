@@ -223,9 +223,7 @@ footer button i:hover{
 
 @media (min-width: 640px) {
 
-  body{
-    overflow: hidden;
-  }
+
 
   .sidebar{
     position: relative;
@@ -261,14 +259,13 @@ footer button i:hover{
     right: 0;
     left: unset;
     width: 100vw;
-    
-    /* myyy */
-    height: 100vh;
+
+   
   }
  
   /* my exp */
   .imageContainer{
-    /* overflow-y: auto; */
+    overflow-y: auto;
 
   }
 
